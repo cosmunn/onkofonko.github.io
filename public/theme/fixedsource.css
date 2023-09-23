@@ -10422,7 +10422,7 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
     unicode-range: U+002D;
     src: url(https://AlexisJonsson.github.io/BetterDiscordAddons/Themes/font/dash2space.ttf) format('truetype'), url(https://AlexisJonsson.github.io/BetterDiscordAddons/Themes/font/dash2space.woff2) format('woff2')
 }
-
+/*
 .autocompleteRowVertical-EA9dCg[data-list-item-id*=channel-autocomplete] .autocompleteRowContentPrimary-1kUW9H .colorInteractiveActive-30E9n8,
 .content-yjf30S .emptyChannelIcon-1YdEz2~.size32-5yOQel,
 .quickswitcher-pKcM9U .result-u66Ywh .match-20K5f5,
@@ -10432,7 +10432,7 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
     font-family: dash2space, var(--font-primary);
     text-transform: capitalize
 }
-
+*/
 .linkTop-1W1aK6 .name-28HaxV {
     font-size: 14px
 }
@@ -12028,14 +12028,14 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
     margin-left: calc(50% - 8px);
     margin-bottom: 12px
 }
-
+/*
 .container-1NXEtd[aria-label*="Alexis Modern Theme"] [data-list-item-id*="channels___upcoming-events-"]>div.name-28HaxV {
     text-align: center;
     font-size: 14px;
     font-family: dash2space, var(--font-primary);
     text-transform: capitalize
 }
-
+*/
 .container-1NXEtd .scroller-1ox3I2.thin-31rlnD.scrollerBase-1Pkza4 {
     --mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgb(0, 0, 0) 24px);
     -webkit-mask-image: var(--mask-image);
